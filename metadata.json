@@ -1,0 +1,6 @@
+{
+  "name": "Formal Effects",
+  "description": "An executive presentation interface featuring dynamic 5-second snowflake fall and rising balloon animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
